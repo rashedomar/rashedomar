@@ -14,6 +14,7 @@
 - 📫 How to reach me **Rashedoumar@gmail.com**
 
 - 📄 Know about my experiences [https://rashedomar.digitalxconsulting.com/](https://rashedomar.digitalxconsulting.com/)
+<a href="https://app.daily.dev/rashedomar"><img src="https://api.daily.dev/devcards/94b16aa39c224d1dac0973de834f5a28.png?r=i3o" width="400" alt="Rashed omar's Dev Card"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
